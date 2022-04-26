@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science students, Unity, C# developer</h3>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GorIspolkom&theme=solarized_dark" />
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GorIspolkom&theme=solarized_dark" />
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GorIspolkom&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GorIspolkom&theme=solarized_dark)
 
