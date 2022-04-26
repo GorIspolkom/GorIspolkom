@@ -6,8 +6,8 @@
 At the moment I have several successfully completed freelance orders, I am engaged in indie development, I take part in game jams.</h1>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GorIspolkom&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daniilshat&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daniilshat&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GorIspolkom&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GorIspolkom&theme=solarized_dark)
 
 
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/unity.svg" />
