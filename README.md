@@ -11,4 +11,4 @@ At the moment I have several successfully completed freelance orders, I am engag
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/blender.svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/adobephotoshop.svg" />
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniilshat&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GorIspolkom&theme=monokai)
